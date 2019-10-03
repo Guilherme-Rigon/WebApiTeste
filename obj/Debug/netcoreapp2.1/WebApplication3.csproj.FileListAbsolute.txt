@@ -1,0 +1,16 @@
+C:\Users\guilhermerigon\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\guilhermerigon\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\guilhermerigon\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.deps.json
+C:\Users\guilhermerigon\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.runtimeconfig.json
+C:\Users\guilhermerigon\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.runtimeconfig.dev.json
+C:\Users\guilhermerigon\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.dll
+C:\Users\guilhermerigon\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.pdb
+C:\Users\guilhermerigon\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.csprojAssemblyReference.cache
+C:\Users\guilhermerigon\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\guilhermerigon\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorAssemblyInfo.cache
+C:\Users\guilhermerigon\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorAssemblyInfo.cs
+C:\Users\guilhermerigon\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.AssemblyInfoInputs.cache
+C:\Users\guilhermerigon\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.AssemblyInfo.cs
+C:\Users\guilhermerigon\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorTargetAssemblyInfo.cache
+C:\Users\guilhermerigon\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.dll
+C:\Users\guilhermerigon\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.pdb
